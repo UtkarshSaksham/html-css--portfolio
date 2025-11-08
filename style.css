@@ -1,0 +1,56 @@
+#sec1 {
+    text-align: center;
+    background-color: #c98d0d;
+}
+
+h1{
+    font-family: "Georgia", serif;
+}
+
+h2{
+    font-family: serif;;
+}
+
+#img1 {
+    border-radius: 50%;
+}
+
+#head3 {
+    text-align: center;
+}
+
+#skills {
+    display: grid;
+    grid-template-rows: 1fr 1.5fr;
+    grid-template-columns: 1fr 1.5fr;
+    margin : 100px auto 0 auto;
+    width: 50%;
+    row-gap: 5rem;
+    column-gap: 2rem;
+}
+
+#sec3 {
+    text-align: center;
+}
+
+#sec3 h3 {
+    font-size: medium;
+}
+
+#sec3 button {
+    color: white;
+    background-color: black;
+    margin-bottom: 100px;
+}
+
+#sec4 {
+    background-color: black;
+}
+
+.text-center,.nav-link {
+    color: white;
+}
+
+footer {
+    margin-bottom: 0px;
+}
